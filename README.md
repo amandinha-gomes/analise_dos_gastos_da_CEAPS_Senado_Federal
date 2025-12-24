@@ -42,3 +42,6 @@ contribuindo para maior transparência e interpretação baseada em evidências.
 
 Mais do que números, os dados mostram que: <br>
 `Transparência não é apenas disponibilizar dados, mas transformá-los em informação compreensível para a sociedade.`
+
+### 📈 Para uma abordagem preditiva dos gastos, veja o projeto de Forecasting:
+👉 analise_gastos_da_ceaps
